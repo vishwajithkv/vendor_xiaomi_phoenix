@@ -527,7 +527,6 @@ PRODUCT_PACKAGES += \
     liblowi_wifihal \
     liblqe \
     libmdsprpc \
-    libmegface \
     libmialgo_fs \
     libmialgo_rfs \
     libmialgo_sd \
